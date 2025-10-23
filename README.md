@@ -58,4 +58,3 @@ pip install requests
 *Use com responsabilidade e apenas em targets autorizados!*
 
 
-Quer que eu adicione mais alguma seção ou explique algo específico?
