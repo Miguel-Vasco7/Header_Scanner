@@ -1,6 +1,6 @@
 
 
-markdown
+
 # 🔒 Security Headers Scanner
 
 Ferramenta para análise de headers de segurança em aplicações web.
