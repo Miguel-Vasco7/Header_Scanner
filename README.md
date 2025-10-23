@@ -1,4 +1,4 @@
-Aqui está o README simples e direto para sua tool:
+
 
 markdown
 # 🔒 Security Headers Scanner
